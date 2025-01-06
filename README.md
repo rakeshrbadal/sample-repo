@@ -1,5 +1,3 @@
 # Sample Repository 
-
-
- 	Description here !
+Description here !
 (New Dev Branch ) 
